@@ -1,0 +1,2537 @@
+fileFormatVersion: 2
+guid: 15f26a06613a50e43ad903422493fa5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2476854265876569405
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_0"
+  - first:
+      213: -5104434198610164014
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_1"
+  - first:
+      213: -7216913434422174087
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_2"
+  - first:
+      213: -6053662126258247409
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_3"
+  - first:
+      213: -3747897841379485164
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_4"
+  - first:
+      213: 5724148152445566541
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_5"
+  - first:
+      213: -4564729527842280998
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_6"
+  - first:
+      213: -8950119588410051389
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_7"
+  - first:
+      213: 3317782899778278699
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_8"
+  - first:
+      213: 8086939797116697307
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_9"
+  - first:
+      213: 1467392622645655420
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_10"
+  - first:
+      213: 870457506230738365
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_11"
+  - first:
+      213: 3242467351413153647
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_12"
+  - first:
+      213: -4756177424908121559
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_13"
+  - first:
+      213: 6048533784751597261
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_14"
+  - first:
+      213: 7367218439280446895
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_15"
+  - first:
+      213: 31910648529214551
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_16"
+  - first:
+      213: 5988687345926807315
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_17"
+  - first:
+      213: -1539045174867956313
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_18"
+  - first:
+      213: 8018364530333454643
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_19"
+  - first:
+      213: 4573154240063968212
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_20"
+  - first:
+      213: 1365843550185280112
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_21"
+  - first:
+      213: 3643307994565579993
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_22"
+  - first:
+      213: -6576355449160948867
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_23"
+  - first:
+      213: -62168843515190925
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_24"
+  - first:
+      213: -1924961550790764695
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_25"
+  - first:
+      213: -6552531738970958903
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_26"
+  - first:
+      213: 385931943238966159
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_27"
+  - first:
+      213: 7418148968942783032
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_28"
+  - first:
+      213: 8168884364011901554
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_29"
+  - first:
+      213: 2540396668549532756
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_30"
+  - first:
+      213: 3744384431068186457
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_31"
+  - first:
+      213: 3891416428451102177
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_32"
+  - first:
+      213: 7346941616144169799
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_33"
+  - first:
+      213: 4894759152757241427
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_34"
+  - first:
+      213: -9020990198303467274
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_35"
+  - first:
+      213: -8402898659032880323
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_36"
+  - first:
+      213: 8158512440144319079
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_37"
+  - first:
+      213: 993026251824274304
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_38"
+  - first:
+      213: 2068850978612040933
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_39"
+  - first:
+      213: -7381834560562584611
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_40"
+  - first:
+      213: 5564309915197604406
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_41"
+  - first:
+      213: -2995951748143279087
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_42"
+  - first:
+      213: 6809918696783494531
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_43"
+  - first:
+      213: 8254138561170830775
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_44"
+  - first:
+      213: 8430780731900031617
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_45"
+  - first:
+      213: -5860141449367043590
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_46"
+  - first:
+      213: -7378571571089970095
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_47"
+  - first:
+      213: -9022299443002994226
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_48"
+  - first:
+      213: 2379453150450964879
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_49"
+  - first:
+      213: 3466182564292597700
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_50"
+  - first:
+      213: 640909411001349370
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_51"
+  - first:
+      213: -7572329841645024639
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_52"
+  - first:
+      213: -1570196403382382859
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_53"
+  - first:
+      213: -5840329853763896649
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_54"
+  - first:
+      213: 3019663980453707180
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_55"
+  - first:
+      213: 5285159339895347934
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_56"
+  - first:
+      213: 19362830814841493
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_57"
+  - first:
+      213: -8084833371096600345
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_58"
+  - first:
+      213: -2917591693481598346
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_59"
+  - first:
+      213: 3137714334695873303
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_60"
+  - first:
+      213: 6122795170946168631
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_61"
+  - first:
+      213: -3776467800709731084
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_62"
+  - first:
+      213: 2003596725121535000
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_63"
+  - first:
+      213: 8162015985503458135
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_64"
+  - first:
+      213: 8278420489162666425
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_65"
+  - first:
+      213: -4757763187938730144
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_66"
+  - first:
+      213: 1977170921711561205
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_67"
+  - first:
+      213: -3446853535268283444
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_68"
+  - first:
+      213: 5218208366963504034
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_69"
+  - first:
+      213: -4006767954147293273
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_70"
+  - first:
+      213: 4618511218062802172
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_71"
+  - first:
+      213: -4343513461289269246
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_72"
+  - first:
+      213: -5834741267786950363
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_73"
+  - first:
+      213: 4703946366379817644
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_74"
+  - first:
+      213: 8577747710865017282
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_75"
+  - first:
+      213: 4081956048894691489
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_76"
+  - first:
+      213: -8338168753662598902
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_77"
+  - first:
+      213: -564814404213520991
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_78"
+  - first:
+      213: 1889877493181775912
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_79"
+  - first:
+      213: -6168766971492647532
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_80"
+  - first:
+      213: 1070174711983663444
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_81"
+  - first:
+      213: 1995789284297257545
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_82"
+  - first:
+      213: 3031550193538070676
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_83"
+  - first:
+      213: -772660526887136287
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_84"
+  - first:
+      213: 3077028154740515797
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_85"
+  - first:
+      213: -3938939507063823345
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_86"
+  - first:
+      213: -2118045500528404169
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_87"
+  - first:
+      213: 4744926657676416976
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_88"
+  - first:
+      213: 7509412496886383598
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_89"
+  - first:
+      213: -8411505017494037496
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_90"
+  - first:
+      213: -5499425016481741647
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_91"
+  - first:
+      213: 5824314631641468419
+    second: "Logotipo Pixel Ne\xF3n ESPIRIFLY_92"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2240a0b2270add0800000000000000
+      internalID: -2476854265876569405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_1"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 851
+        width: 193
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d64c7c04286929b0800000000000000
+      internalID: -5104434198610164014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_2"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 938
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e958ed77f58db90800000000000000
+      internalID: -7216913434422174087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_3"
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 914
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09242eae521dfba0800000000000000
+      internalID: -6053662126258247409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_4"
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 832
+        width: 253
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a5f1e35caccfbc0800000000000000
+      internalID: -3747897841379485164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_5"
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 934
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ef934ba62407f40800000000000000
+      internalID: 5724148152445566541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_6"
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 922
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9693deda2d6a0c0800000000000000
+      internalID: -4564729527842280998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_7"
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 866
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4bd8377a9cac380800000000000000
+      internalID: -8950119588410051389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_8"
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 888
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25562f08f12b0e20800000000000000
+      internalID: 3317782899778278699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_9"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 914
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda3c1726e49a3070800000000000000
+      internalID: 8086939797116697307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_10"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 888
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77b2d2d0d93d5410800000000000000
+      internalID: 1467392622645655420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_11"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 890
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd94f27d7c741c00800000000000000
+      internalID: 870457506230738365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_12"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 888
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f58c470ee8ffc20800000000000000
+      internalID: 3242467351413153647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_13"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 882
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a8e93d4d9aefdb0800000000000000
+      internalID: -4756177424908121559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_14"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 869
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc661144e65b0f350800000000000000
+      internalID: 6048533784751597261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_15"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 880
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadc408232e9d3660800000000000000
+      internalID: 7367218439280446895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_16"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 884
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd226d09e517000800000000000000
+      internalID: 31910648529214551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_17"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 876
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f18d469671c1350800000000000000
+      internalID: 5988687345926807315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_18"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 867
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad67b2519634aae0800000000000000
+      internalID: -1539045174867956313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_19"
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 884
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311e16ae04f64f60800000000000000
+      internalID: 8018364530333454643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_20"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 872
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3951e3d8b177f30800000000000000
+      internalID: 4573154240063968212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_21"
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 906
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0725d8be87374f210800000000000000
+      internalID: 1365843550185280112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_22"
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 884
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d41c676151af8230800000000000000
+      internalID: 3643307994565579993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_23"
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 912
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ae00ef871cb4a0800000000000000
+      internalID: -6576355449160948867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_24"
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 842
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712e2624c1232ff0800000000000000
+      internalID: -62168843515190925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_25"
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 898
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967d4de1ba92945e0800000000000000
+      internalID: -1924961550790764695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_26"
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 857
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d927a91bb015a0800000000000000
+      internalID: -6552531738970958903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_27"
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 866
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b1c30ce0b1b5500800000000000000
+      internalID: 385931943238966159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_28"
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 900
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ac3c82f2f82f660800000000000000
+      internalID: 7418148968942783032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_29"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 867
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2721c286c05bd5170800000000000000
+      internalID: 8168884364011901554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_30"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 867
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0b797f4d414320800000000000000
+      internalID: 2540396668549532756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_31"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 883
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957825c2dc9b6f330800000000000000
+      internalID: 3744384431068186457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_32"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 876
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed72f2cf96110630800000000000000
+      internalID: 3891416428451102177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_33"
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 855
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bbecf597495f560800000000000000
+      internalID: 7346941616144169799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_34"
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 867
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ff21148dade340800000000000000
+      internalID: 4894759152757241427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_35"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 851
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f857dbb5310fc280800000000000000
+      internalID: -9020990198303467274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_36"
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 819
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2db8a038e26b80800000000000000
+      internalID: -8402898659032880323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_37"
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 801
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7625862b6dbd83170800000000000000
+      internalID: 8158512440144319079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_38"
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 851
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b9f906d10f7cd00800000000000000
+      internalID: 993026251824274304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_39"
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 866
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4d369f00906bc10800000000000000
+      internalID: 2068850978612040933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_40"
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 866
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd327fae3947e8990800000000000000
+      internalID: -7381834560562584611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_41"
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 866
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632898b0366683d40800000000000000
+      internalID: 5564309915197604406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_42"
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 867
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11495bf12cd3c66d0800000000000000
+      internalID: -2995951748143279087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_43"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1658
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d321769f0b18e50800000000000000
+      internalID: 6809918696783494531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_44"
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 859
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5f0710a479c8270800000000000000
+      internalID: 8254138561170830775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_45"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 856
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182fb105866200570800000000000000
+      internalID: 8430780731900031617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_46"
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 863
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af14fe076689caea0800000000000000
+      internalID: -5860141449367043590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_47"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 850
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ce26bdf3c0a9990800000000000000
+      internalID: -7378571571089970095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_48"
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 860
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec11a92757a5ac280800000000000000
+      internalID: -9022299443002994226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_49"
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 847
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8950509804850120800000000000000
+      internalID: 2379453150450964879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_50"
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 854
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c710577daa5a1030800000000000000
+      internalID: 3466182564292597700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_51"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 77
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b0ffa6b7f4e800800000000000000
+      internalID: 640909411001349370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_52"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a88a2012ea9e690800000000000000
+      internalID: -7572329841645024639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_53"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 73
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0cccb0ba853ae0800000000000000
+      internalID: -1570196403382382859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_54"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 78
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba3b4ff0faf2fea0800000000000000
+      internalID: -5840329853763896649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_55"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 67
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad3cff246008e920800000000000000
+      internalID: 3019663980453707180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_56"
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 75
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edadccbea68a85940800000000000000
+      internalID: 5285159339895347934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_57"
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a809c546ac44000800000000000000
+      internalID: 19362830814841493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_58"
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 11
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0309f52e6eccf80800000000000000
+      internalID: -8084833371096600345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_59"
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 15
+        width: 56
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672266610d1a287d0800000000000000
+      internalID: -2917591693481598346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_60"
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 10
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bd23620966b8b20800000000000000
+      internalID: 3137714334695873303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_61"
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 65
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73739bc94c988f450800000000000000
+      internalID: 6122795170946168631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_62"
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 69
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fceef83b8a479bc0800000000000000
+      internalID: -3776467800709731084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_63"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 57
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c41022b943ecb10800000000000000
+      internalID: 2003596725121535000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_64"
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 63
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7535efa6b4e454170800000000000000
+      internalID: 8162015985503458135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_65"
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 45
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b13bdde29bd2e270800000000000000
+      internalID: 8278420489162666425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_66"
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 71
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f5b79969709fdb0800000000000000
+      internalID: -4757763187938730144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_67"
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 9
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f969d05a72507b10800000000000000
+      internalID: 1977170921711561205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_68"
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbd88dc8f05a20d0800000000000000
+      internalID: -3446853535268283444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_69"
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 59
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b4dcccdcca6840800000000000000
+      internalID: 5218208366963504034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_70"
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 65
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7c1a346c91568c0800000000000000
+      internalID: -4006767954147293273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_71"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc3acf9b7f381040800000000000000
+      internalID: 4618511218062802172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_72"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208c9b6158db8b3c0800000000000000
+      internalID: -4343513461289269246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_73"
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 55
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5291f311bb5d60fa0800000000000000
+      internalID: -5834741267786950363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_74"
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 51
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caafe823c46c74140800000000000000
+      internalID: 4703946366379817644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_75"
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 47
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9870f98184a0770800000000000000
+      internalID: 8577747710865017282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_76"
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 29
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8002b366506a830800000000000000
+      internalID: 4081956048894691489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_77"
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 35
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01eda032bfd84c80800000000000000
+      internalID: -8338168753662598902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_78"
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 21
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a544d8ba406928f0800000000000000
+      internalID: -564814404213520991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_79"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 29
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8200b1a21913a3a10800000000000000
+      internalID: 1889877493181775912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_80"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49db40a7f13246aa0800000000000000
+      internalID: -6168766971492647532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_81"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45964630b360ade00800000000000000
+      internalID: 1070174711983663444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_82"
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 25
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942b119a7c772bb10800000000000000
+      internalID: 1995789284297257545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_83"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 19
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4987a94d6da321a20800000000000000
+      internalID: 3031550193538070676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_84"
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 15
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e31de23855f645f0800000000000000
+      internalID: -772660526887136287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_85"
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 19
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d32f2fcdccc3ba20800000000000000
+      internalID: 3077028154740515797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_86"
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 33
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0465b143631659c0800000000000000
+      internalID: -3938939507063823345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_87"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 29
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739d3e2d6d03b92e0800000000000000
+      internalID: -2118045500528404169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_88"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7951cc7ad59d140800000000000000
+      internalID: 4744926657676416976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_89"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3cacc11eac63860800000000000000
+      internalID: 7509412496886383598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_90"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1adda0c4544b80800000000000000
+      internalID: -8411505017494037496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_91"
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 0
+        width: 99
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b485bfa51e1ea3b0800000000000000
+      internalID: -5499425016481741647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Logotipo Pixel Ne\xF3n ESPIRIFLY_92"
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 13
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e89178c4f14d050800000000000000
+      internalID: 5824314631641468419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_0": -2476854265876569405
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_1": -5104434198610164014
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_10": 1467392622645655420
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_11": 870457506230738365
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_12": 3242467351413153647
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_13": -4756177424908121559
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_14": 6048533784751597261
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_15": 7367218439280446895
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_16": 31910648529214551
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_17": 5988687345926807315
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_18": -1539045174867956313
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_19": 8018364530333454643
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_2": -7216913434422174087
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_20": 4573154240063968212
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_21": 1365843550185280112
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_22": 3643307994565579993
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_23": -6576355449160948867
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_24": -62168843515190925
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_25": -1924961550790764695
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_26": -6552531738970958903
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_27": 385931943238966159
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_28": 7418148968942783032
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_29": 8168884364011901554
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_3": -6053662126258247409
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_30": 2540396668549532756
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_31": 3744384431068186457
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_32": 3891416428451102177
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_33": 7346941616144169799
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_34": 4894759152757241427
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_35": -9020990198303467274
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_36": -8402898659032880323
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_37": 8158512440144319079
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_38": 993026251824274304
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_39": 2068850978612040933
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_4": -3747897841379485164
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_40": -7381834560562584611
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_41": 5564309915197604406
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_42": -2995951748143279087
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_43": 6809918696783494531
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_44": 8254138561170830775
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_45": 8430780731900031617
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_46": -5860141449367043590
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_47": -7378571571089970095
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_48": -9022299443002994226
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_49": 2379453150450964879
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_5": 5724148152445566541
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_50": 3466182564292597700
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_51": 640909411001349370
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_52": -7572329841645024639
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_53": -1570196403382382859
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_54": -5840329853763896649
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_55": 3019663980453707180
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_56": 5285159339895347934
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_57": 19362830814841493
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_58": -8084833371096600345
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_59": -2917591693481598346
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_6": -4564729527842280998
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_60": 3137714334695873303
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_61": 6122795170946168631
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_62": -3776467800709731084
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_63": 2003596725121535000
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_64": 8162015985503458135
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_65": 8278420489162666425
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_66": -4757763187938730144
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_67": 1977170921711561205
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_68": -3446853535268283444
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_69": 5218208366963504034
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_7": -8950119588410051389
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_70": -4006767954147293273
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_71": 4618511218062802172
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_72": -4343513461289269246
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_73": -5834741267786950363
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_74": 4703946366379817644
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_75": 8577747710865017282
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_76": 4081956048894691489
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_77": -8338168753662598902
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_78": -564814404213520991
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_79": 1889877493181775912
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_8": 3317782899778278699
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_80": -6168766971492647532
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_81": 1070174711983663444
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_82": 1995789284297257545
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_83": 3031550193538070676
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_84": -772660526887136287
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_85": 3077028154740515797
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_86": -3938939507063823345
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_87": -2118045500528404169
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_88": 4744926657676416976
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_89": 7509412496886383598
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_9": 8086939797116697307
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_90": -8411505017494037496
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_91": -5499425016481741647
+      "Logotipo Pixel Ne\xF3n ESPIRIFLY_92": 5824314631641468419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
